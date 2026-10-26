@@ -3,6 +3,9 @@
 A Flutter application that fetches posts from a REST API and displays them in a clean, scrollable interface.
 
 ## Features
+## App Screenshot
+
+![Flutter API Posts App Screenshot](screenshots/posts-screen.png)
 
 - Fetches posts from JSONPlaceholder REST API.
 - Displays post titles and body text.
