@@ -5,7 +5,7 @@ A Flutter application that fetches posts from a REST API and displays them in a 
 ## Features
 ## App Screenshot
 
-![Flutter API Posts App Screenshot](screenshots/app-screencshot.png)
+![Flutter API Posts App Screenshot](screenshots/app-screenshot.PNG)
 
 - Fetches posts from JSONPlaceholder REST API.
 - Displays post titles and body text.
